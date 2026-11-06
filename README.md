@@ -14,4 +14,4 @@ Open `http://127.0.0.1:4173`.
 
 ## Hosting
 
-The site is hosted through OpenAI Sites. `.openai/hosting.json` contains the non-secret project identifier and static output directory.
+The site is hosted on GitHub Pages. `.github/workflows/pages.yml` publishes `dist/` on every push to `master`.
