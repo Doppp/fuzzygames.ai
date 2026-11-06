@@ -1,8 +1,8 @@
 # Fuzzy Games
 
-Static landing page for [fuzzygames.ai](https://fuzzygames.ai).
+Soft Focus homepage for [fuzzygames.ai](https://fuzzygames.ai). This repo is the live copy of the site.
 
-The publishable site is in `dist/`. It is intentionally buildless: edit the HTML or assets directly, then preview with any local static-file server.
+The publishable site is in `dist/`. It is intentionally buildless: edit the files directly, then preview with any local static-file server.
 
 ## Local preview
 
